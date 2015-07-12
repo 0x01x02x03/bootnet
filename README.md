@@ -5,6 +5,10 @@ https://shodan.io
 
 There are many applications in this repository below there are titles with scriptname to help you with those applications.
 
+#installation
+
+Create a file called *shodan.key* and put your shodan api key in it. And now you are ready to go.
+
 #usage
 
 ##count.py
