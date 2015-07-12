@@ -7,6 +7,7 @@ There are many applications in this repository below there are titles with scrip
 
 #usage
 
-##Count
+##count.py
 Usage count.py <search_query>
+
 This will count the query you will enter with the shodan database
