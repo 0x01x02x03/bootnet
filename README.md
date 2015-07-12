@@ -15,3 +15,11 @@ Create a file called *shodan.key* and put your shodan api key in it. And now you
 Usage count.py <search_query>
 
 This will count the query you will enter with the shodan database
+
+##support
+
+*bitcoin:139QYRcmZjHvowUHcEbaF6NGcSkmKRJPPx*
+
+*bitcoin:LaZWkLr5AGqYnXca6LLsBkLqgUwxMXq1sW*
+
+*bitcoin:BPMGRHqnQ4YFE4Df4htJQDFYUbXVWB1RMd*
