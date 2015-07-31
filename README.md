@@ -1,5 +1,6 @@
 #info
-This is a repository full of helpfull applications with the shodan engine.
+This is a repository full of helpfull applications with the shodan engine. As the current shodan api does not support python3 these applications will.
+
 For more info on shodan see:
 https://shodan.io
 
