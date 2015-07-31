@@ -8,9 +8,6 @@ There are many applications in this repository below there are titles with scrip
 
 #installation
 
-Install the python module *shodan* with:
-*pip install shodan*
-
 Create a file called *shodan.key* and put your shodan api key in it. And now you are ready to go.
 
 #usage
